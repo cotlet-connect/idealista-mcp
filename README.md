@@ -106,6 +106,7 @@ Idealista's official connectors focus on property search in Spain, Italy and Por
 - [Idealista on Cotlet.dev](https://cotlet.dev/integrations/idealista-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=idealista&utm_content=find)
 - [PyPI package idealista-mcp](https://pypi.org/project/idealista-mcp/)
 - [Odel](https://odel.app/modules/cotlet/idealista)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/idealista/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-idealista-to-ai-agents-guide)
 
 ## Also works with
